@@ -10,6 +10,8 @@ Soy alumno de la Universidad Nacional de Rio Negro, sede Andina, de la carrera d
 #### Actualmente utilizando:
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-05122A.svg?style=flat&logo=javascript)
+![html5](https://img.shields.io/badge/html5-05122A.svg?style=flat&logo=html5)
+![css3](https://img.shields.io/badge/css3-05122A.svg?style=flat&logo=css3)
 ![MySql](https://img.shields.io/badge/MySql-05122A.svg?style=flat&logo=mysql)
 ![git](https://img.shields.io/badge/-git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-05122A.svg?style=flat&logo=github)
