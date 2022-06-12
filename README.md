@@ -21,7 +21,7 @@ Soy alumno de la Universidad Nacional de Rio Negro, sede Andina, de la carrera d
 #### Extra:
 * Soy instructor de buceo :ocean: :swimmer: y un apasionado por las actividades acuáticas 	:ship: :speedboat: :rowboat: :anchor:
 * me encanta la naturaleza 	:cactus: :evergreen_tree: :sunflower: :paw_prints: :leopard: :blowfish: :octopus: :dolphin: 	:whale: :tropical_fish: :snake:
-* y cultivo 	:mushroom: 	:mushroom: 	:mushroom: 
+* y cultivo 	:mushroom: 	:mushroom: 	:mushroom: comestibles!! 
 
 #### **_Intento encontrar la forma de fusionar la tecnología y mis gustos por la naturaleza para cuidar el medio ambiente_** 
 :earth_americas: :sun_with_face: :earth_americas: 
